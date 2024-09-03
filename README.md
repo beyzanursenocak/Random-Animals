@@ -1,4 +1,4 @@
-Live Link: https://random-animals-heart.netlify.app/
+LIVE Link: https://random-animals-heart.netlify.app/
 
 # Getting Started with Create React App
 
